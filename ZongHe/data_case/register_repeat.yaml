@@ -1,0 +1,2 @@
+- casedata: {"mobilephone":"13745247611","pwd":"123456abc","regname":"aaa"}
+  expect: {"status":"0","code":"20110","msg":"手机号码已被注册"}
